@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Mike</h1>
+<h1 align="center">Hi,  I'm Mike</h1>
 <h3 align="center">I'm a software engineer that specializes in full-stack web development</h3>
 
 <p align="left"> <a href="https://twitter.com/mikepcodes" target="blank"><img src="https://img.shields.io/twitter/follow/mikepcodes?logo=twitter&style=for-the-badge" alt="mikepcodes" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href ="https://mpwebdev.netlify.app/">Here</a>
+- 👨‍💻 All of my projects are available <a href ="https://mpwebdev.netlify.app/">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
