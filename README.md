@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/mikepcodes" target="blank"><img src="https://img.shields.io/twitter/follow/mikepcodes?logo=twitter&style=for-the-badge" alt="mikepcodes" /></a> </p>
 
-- 👨‍💻 All of my projects are available <a href ="https://mpwebdev.netlify.app/">here</a>
+- 👨‍💻 My portfolio is available <a href ="https://mpwebdev.netlify.app/">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
