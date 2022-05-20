@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![MP Web Development](/Users/michaelpoellnitz/Desktop/MikePCodes/Images/cover.png)
+
 <h1 align="center">Hi,  I'm Mike</h1>
 <h3 align="center">I'm a software engineer that specializes in full-stack web development</h3>
 
